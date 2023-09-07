@@ -2,7 +2,7 @@
 
 The Nashville Housing dataset, contains records of properties and lands sales in Nashville, the capital city of the U.S. state of Tennessee.
 
-I used SQL in SSMS transform and clean the data, a yet to come step is to visualize data using Tableau.  
+I used SSMS to transform and clean the data, a yet to come step is to visualize data using Tableau.  
 
 ## Dataset
 The dataset was taken from [GitHub](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx) initially found in Kaggle. The dataset has 19 columns and 56,477 rows.
